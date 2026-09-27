@@ -8,5 +8,20 @@
   <itunes:author>Kit4FutureCitizenTeen</itunes:author>
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Society &amp; Culture"/>
+
+  <item>
+    <title>איך נולדה הדמוקרטיה</title>
+    <description><![CDATA[דמוקרטיה לא הייתה תמיד מובנת מאליה — היא נולדה במקום אחד, בזמן אחד.
+המקור היווני העתיק של המילה, מי בכלל הורשה להצביע (ומי לא), וסיפורים על ליזיסטרטה וסוקרטס בדרך.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/לומדים-אזרחות-איך-נולדה-הדמוקרטיה
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/rec1cjvvif66U6MSx.mp3" type="audio/mp4" length="23438609"/>
+    <pubDate>Sun, 27 Sep 2026 21:05:20 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/לומדים-אזרחות-איך-נולדה-הדמוקרטיה</guid>
+    <link>https://www.hamal4kids.online/post/לומדים-אזרחות-איך-נולדה-הדמוקרטיה</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
