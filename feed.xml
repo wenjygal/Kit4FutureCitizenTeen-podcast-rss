@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>להבין את המשחק</title>
+  <link>https://linktr.ee/Kit4FutureCitizenTeen</link>
+  <language>he</language>
+  <description>פודקאסט שמפענח איך השלטון, הכוח והדמוקרטיה באמת עובדים - לבני נוער 14+.</description>
+  <itunes:author>Kit4FutureCitizenTeen</itunes:author>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>
