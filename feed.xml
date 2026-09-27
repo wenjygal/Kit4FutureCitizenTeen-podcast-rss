@@ -38,5 +38,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>אל תצאו דג</title>
+    <description><![CDATA[נוכלים מתייחסים אליכם בדיוק כמו לדגים — יש להם קרס, ואתם הפיתיון.
+מה זה פישינג, איך נוכלים עובדים על בני נוער בטלפון ובהודעות (כולל חיקוי קולות בבינה מלאכותית), וחוקי הזהב להגנה.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/פישינג-כשנוכלים-מתייחסים-אליכם-כמו-דגים-ואיך-לא-ליפול-בפח-באינטרנט-ובטלפון
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/recQot3B1ckEar3oD.mp3" type="audio/mp4" length="21906715"/>
+    <pubDate>Sun, 27 Sep 2026 21:05:42 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/פישינג-כשנוכלים-מתייחסים-אליכם-כמו-דגים-ואיך-לא-ליפול-בפח-באינטרנט-ובטלפון</guid>
+    <link>https://www.hamal4kids.online/post/פישינג-כשנוכלים-מתייחסים-אליכם-כמו-דגים-ואיך-לא-ליפול-בפח-באינטרנט-ובטלפון</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
