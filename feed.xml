@@ -68,5 +68,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>תסמונת האדמין</title>
+    <description><![CDATA[למה אנשים נחמדים הופכים לרעים ברגע שנותנים להם כוח?
+על עקרון לורד אקטון — 'כוח משחית, וכוח מוחלט משחית לחלוטין' — ומה זה עושה לבני אדם, מהכיתה ועד השלטון.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/חוקים-חוק-אקטון-שמדבר-על-מה-עושה-לנו-כוח-ומה-עושה-יותר-מדי-כוח
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/recqPHTOkqQc8gzfb.mp3" type="audio/mp4" length="25082789"/>
+    <pubDate>Sun, 27 Sep 2026 21:06:04 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/חוקים-חוק-אקטון-שמדבר-על-מה-עושה-לנו-כוח-ומה-עושה-יותר-מדי-כוח</guid>
+    <link>https://www.hamal4kids.online/post/חוקים-חוק-אקטון-שמדבר-על-מה-עושה-לנו-כוח-ומה-עושה-יותר-מדי-כוח</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
