@@ -8,6 +8,11 @@
   <itunes:author>Kit4FutureCitizenTeen</itunes:author>
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Society &amp; Culture"/>
+  <itunes:image href="https://wenjygal.github.io/Kit4FutureCitizenTeen-podcast-rss/cover.png"/>
+  <itunes:owner>
+    <itunes:name>Kit4FutureCitizenTeen</itunes:name>
+    <itunes:email>wenjygal@gmail.com</itunes:email>
+  </itunes:owner>
 
   <item>
     <title>איך נולדה הדמוקרטיה</title>
@@ -21,7 +26,7 @@
     <guid isPermaLink="false">https://www.hamal4kids.online/post/לומדים-אזרחות-איך-נולדה-הדמוקרטיה</guid>
     <link>https://www.hamal4kids.online/post/לומדים-אזרחות-איך-נולדה-הדמוקרטיה</link>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+    <itunes:image href="https://wenjygal.github.io/Kit4FutureCitizenTeen-podcast-rss/cover.png"/>
   </item>
 
   <item>
@@ -36,7 +41,7 @@
     <guid isPermaLink="false">https://www.hamal4kids.online/post/איך-להפוך-לקוראים-ביקורתיים-בעידן-המידע</guid>
     <link>https://www.hamal4kids.online/post/איך-להפוך-לקוראים-ביקורתיים-בעידן-המידע</link>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+    <itunes:image href="https://wenjygal.github.io/Kit4FutureCitizenTeen-podcast-rss/cover.png"/>
   </item>
 
   <item>
@@ -51,7 +56,7 @@
     <guid isPermaLink="false">https://www.hamal4kids.online/post/פישינג-כשנוכלים-מתייחסים-אליכם-כמו-דגים-ואיך-לא-ליפול-בפח-באינטרנט-ובטלפון</guid>
     <link>https://www.hamal4kids.online/post/פישינג-כשנוכלים-מתייחסים-אליכם-כמו-דגים-ואיך-לא-ליפול-בפח-באינטרנט-ובטלפון</link>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+    <itunes:image href="https://wenjygal.github.io/Kit4FutureCitizenTeen-podcast-rss/cover.png"/>
   </item>
 
   <item>
@@ -66,7 +71,7 @@
     <guid isPermaLink="false">https://www.hamal4kids.online/post/לומדים-אזרחות-למה-בכלל-צריך-שלטון</guid>
     <link>https://www.hamal4kids.online/post/לומדים-אזרחות-למה-בכלל-צריך-שלטון</link>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+    <itunes:image href="https://wenjygal.github.io/Kit4FutureCitizenTeen-podcast-rss/cover.png"/>
   </item>
 
   <item>
@@ -81,7 +86,7 @@
     <guid isPermaLink="false">https://www.hamal4kids.online/post/חוקים-חוק-אקטון-שמדבר-על-מה-עושה-לנו-כוח-ומה-עושה-יותר-מדי-כוח</guid>
     <link>https://www.hamal4kids.online/post/חוקים-חוק-אקטון-שמדבר-על-מה-עושה-לנו-כוח-ומה-עושה-יותר-מדי-כוח</link>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+    <itunes:image href="https://wenjygal.github.io/Kit4FutureCitizenTeen-podcast-rss/cover.png"/>
   </item>
 </channel>
 </rss>
