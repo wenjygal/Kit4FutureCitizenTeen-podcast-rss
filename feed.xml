@@ -148,5 +148,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>ימין, שמאל ומה שביניהם</title>
+    <description><![CDATA['ימני' ו'שמאלני' הפכו לקללות. אבל מאיפה בכלל הגיע הציר הזה?
+מה ההבדל בין ימין כלכלי לחברתי, איך זה משתנה בין מדינות, ולמה בישראל זה הפך לתיוג במקום לוויכוח אמיתי.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/לומדים-אזרחות-ימין-שמאל-ומה-שביניהם
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/recOWQCWrDkEeDoYm.mp3" type="audio/mp4" length="24216624"/>
+    <pubDate>Mon, 28 Sep 2026 11:01:14 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/לומדים-אזרחות-ימין-שמאל-ומה-שביניהם</guid>
+    <link>https://www.hamal4kids.online/post/לומדים-אזרחות-ימין-שמאל-ומה-שביניהם</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
