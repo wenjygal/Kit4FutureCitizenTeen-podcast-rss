@@ -133,5 +133,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>ברוכים הבאים לרפובליקת בננות</title>
+    <description><![CDATA[המונח 'רפובליקת בננות' לא קשור לפרי. הוא קשור לשחיתות.
+מי טבע את המונח, איך חברה אחת שלטה במדינות שלמות במרכז אמריקה, ולמה זה עדיין רלוונטי כשמדינה שלמה תלויה במשאב אחד.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/לומדים-אזרחות-מה-זה-רפובליקת-בננות-ולמה-זה-לא-מתוק-בכלל
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/recLnNFSyRstwPu3k.mp3" type="audio/mp4" length="27608592"/>
+    <pubDate>Mon, 28 Sep 2026 11:01:04 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/לומדים-אזרחות-מה-זה-רפובליקת-בננות-ולמה-זה-לא-מתוק-בכלל</guid>
+    <link>https://www.hamal4kids.online/post/לומדים-אזרחות-מה-זה-רפובליקת-בננות-ולמה-זה-לא-מתוק-בכלל</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
