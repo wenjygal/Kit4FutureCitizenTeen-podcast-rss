@@ -163,5 +163,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>הנשים שנלחמו כדי שתוכלי להצביע</title>
+    <description><![CDATA[זכות ההצבעה שלכן לא הייתה מובנת מאליה — נשים נלחמו עליה עשרות ומאות שנים.
+מי הייתה המדינה הראשונה שנתנה לנשים להצביע, טיימליין עולמי עם תאריכים מפתיעים, וסיפורים שלא סיפרו לכן בבית הספר.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/הסופרג-יסטיות-הנשים-שנלחמו-כדי-שתוכלי-להצביע
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/rec9FntrxQyQsYaLY.mp3" type="audio/mp4" length="22345343"/>
+    <pubDate>Mon, 28 Sep 2026 21:00:50 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/הסופרג-יסטיות-הנשים-שנלחמו-כדי-שתוכלי-להצביע</guid>
+    <link>https://www.hamal4kids.online/post/הסופרג-יסטיות-הנשים-שנלחמו-כדי-שתוכלי-להצביע</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
