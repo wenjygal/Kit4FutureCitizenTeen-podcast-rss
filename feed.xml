@@ -178,5 +178,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>למה דמוקרטיה צריכה חוקה</title>
+    <description><![CDATA[בלי חוקה, שום דבר לא מונע מהשלטון לשנות את הכללים תוך כדי משחק.
+מה זו בעצם חוקה, למה היא נחשבת קו ההגנה האחרון נגד שלטון עריץ, ומה קורה במדינות שאין להן אחת.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/לומדים-אזרחות-למה-דמוקרטיה-צריכה-חוקה-ולמה-בישראל-עדיין-אין-כזאת
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/recOKc9zHRe3YJH9C.mp3" type="audio/mp4" length="27446484"/>
+    <pubDate>Mon, 28 Sep 2026 21:01:01 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/לומדים-אזרחות-למה-דמוקרטיה-צריכה-חוקה-ולמה-בישראל-עדיין-אין-כזאת</guid>
+    <link>https://www.hamal4kids.online/post/לומדים-אזרחות-למה-דמוקרטיה-צריכה-חוקה-ולמה-בישראל-עדיין-אין-כזאת</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
