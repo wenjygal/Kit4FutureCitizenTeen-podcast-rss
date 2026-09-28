@@ -103,5 +103,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>שרשרת של שקרים</title>
+    <description><![CDATA['תעביר הלאה או שיקרה לך משהו רע' — למה אנשים עדיין מאמינים לזה?
+מסע מהדואר הרגיל ועד לרשתות החברתיות: איך מכתבי שרשרת עובדים על המוח שלנו, ולמה גם אנשים חכמים ממשיכים לשתף אותם.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/אמונות-תפלות-מכתבי-שרשרת
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/recneth59n0lKhWuQ.mp3" type="audio/mp4" length="20253646"/>
+    <pubDate>Mon, 28 Sep 2026 09:01:01 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/אמונות-תפלות-מכתבי-שרשרת</guid>
+    <link>https://www.hamal4kids.online/post/אמונות-תפלות-מכתבי-שרשרת</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
