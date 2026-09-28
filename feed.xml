@@ -238,5 +238,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>למה פוליטיקאים שונאים עיתונאים</title>
+    <description><![CDATA[עיתונאים לא פה כדי להיות אהובים על השלטון. זה בדיוק התפקיד שלהם.
+מה קורה כשהשלטון שולט בתקשורת, איך מזהים תעמולה וחדשות מזויפות, ואיך בכלל להיות צרכן חכם של מידע.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/לומדים-אזרחות-תקשורת-חופשית-כלב-השמירה-של-הדמוקרטיה
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/recakThPxI6x1pfDq.mp3" type="audio/mp4" length="23504464"/>
+    <pubDate>Mon, 28 Sep 2026 23:01:04 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/לומדים-אזרחות-תקשורת-חופשית-כלב-השמירה-של-הדמוקרטיה</guid>
+    <link>https://www.hamal4kids.online/post/לומדים-אזרחות-תקשורת-חופשית-כלב-השמירה-של-הדמוקרטיה</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
