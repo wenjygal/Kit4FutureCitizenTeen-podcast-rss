@@ -118,5 +118,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>האם כולם באמת שווים</title>
+    <description><![CDATA['הרוב קובע' נשמע דמוקרטי לגמרי. אז למה זה לפעמים מסוכן?
+עריצות הרוב, למה זכויות מיעוטים חייבות הגנה, ומי שומר עליהן בפועל — מבתי משפט ועד ארגוני זכויות אדם.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/לומדים-אזרחות-האם-כולם-באמת-שווים-בדמוקרטיה
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/recIprTWRPjew3Jh7.mp3" type="audio/mp4" length="19145364"/>
+    <pubDate>Mon, 28 Sep 2026 11:00:52 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/לומדים-אזרחות-האם-כולם-באמת-שווים-בדמוקרטיה</guid>
+    <link>https://www.hamal4kids.online/post/לומדים-אזרחות-האם-כולם-באמת-שווים-בדמוקרטיה</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
