@@ -208,5 +208,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>חופש הביטוי</title>
+    <description><![CDATA['יש לי חופש ביטוי' — נכון, אבל יש לזה מחיר. מה מותר, ומה עולה לכם ביוקר?
+מה זו הוצאת דיבה, מה קורה כשמשקרים ביודעין, איפה בעולם אסור בכלל לפתוח את הפה — ומה המצב בישראל.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/לומדים-אזרחות-חופש-הביטוי-מה-מותר-להגיד-ומה-יש-לו-מחיר
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/recVUMffXapZ64GH1.mp3" type="audio/mp4" length="31940051"/>
+    <pubDate>Mon, 28 Sep 2026 21:01:22 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/לומדים-אזרחות-חופש-הביטוי-מה-מותר-להגיד-ומה-יש-לו-מחיר</guid>
+    <link>https://www.hamal4kids.online/post/לומדים-אזרחות-חופש-הביטוי-מה-מותר-להגיד-ומה-יש-לו-מחיר</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
