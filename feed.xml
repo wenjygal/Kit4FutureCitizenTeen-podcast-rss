@@ -88,5 +88,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://wenjygal.github.io/Kit4FutureCitizenTeen-podcast-rss/cover.png"/>
   </item>
+
+  <item>
+    <title>על מה דמוקרטיה באמת מבוססת</title>
+    <description><![CDATA['כל בני האדם שווים' — משפט יפה. אבל על מה זה בעצם מבוסס?
+חירות מול שוויון, דמוקרטיה ליברלית מול דמוקרטיה חלולה, ומגילת זכויות האדם של האו״ם.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/לומדים-אזרחות-על-מה-דמוקרטיה-באמת-מבוססת
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/recWHuJ3JFrSXzroJ.mp3" type="audio/mp4" length="24123244"/>
+    <pubDate>Mon, 28 Sep 2026 09:00:51 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/לומדים-אזרחות-על-מה-דמוקרטיה-באמת-מבוססת</guid>
+    <link>https://www.hamal4kids.online/post/לומדים-אזרחות-על-מה-דמוקרטיה-באמת-מבוססת</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
