@@ -313,5 +313,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>אוגוסטוס: כך הופכים לדיקטטור</title>
+    <description><![CDATA[יוליוס קיסר לא היה קיסר בכלל. אז מי באמת הפך את רומא לאימפריה?
+איך אוקטביאנוס בן ה-19 הפך לאוגוסטוס בלי שנראה שהשתנה משהו — המהפכה השקטה ביותר בהיסטוריה.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/מהפכות-אוגוסטוס-איך-הופכים-לקיסר-בלי-לשנות-כלום-כמעט
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/recDpgP1DkkERm8Ox.mp3" type="audio/mp4" length="30462576"/>
+    <pubDate>Tue, 29 Sep 2026 17:01:30 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/מהפכות-אוגוסטוס-איך-הופכים-לקיסר-בלי-לשנות-כלום-כמעט</guid>
+    <link>https://www.hamal4kids.online/post/מהפכות-אוגוסטוס-איך-הופכים-לקיסר-בלי-לשנות-כלום-כמעט</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
