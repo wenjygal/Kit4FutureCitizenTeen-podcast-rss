@@ -253,5 +253,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>המהפכה הצרפתית</title>
+    <description><![CDATA[חירות, שוויון, אחווה — וגם לא מעט גיליוטינה. ברוכים הבאים למהפכה שהפכה סדר עולם.
+משבועת מגרש הטניס ועד כיבוש הבסטיליה, מבריחת המלך ועד עידן הטרור — איך מהפכה עקובה מדם הולידה את הכרזת זכויות האדם שעדיין מנחה דמוקרטיות היום.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/מהפכות-המהפכה-הצרפתית-חירות-שוויון-אחווה-וגיליוטינה
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/reckItcv13bd543xk.mp3" type="audio/mp4" length="24596982"/>
+    <pubDate>Tue, 29 Sep 2026 11:00:51 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/מהפכות-המהפכה-הצרפתית-חירות-שוויון-אחווה-וגיליוטינה</guid>
+    <link>https://www.hamal4kids.online/post/מהפכות-המהפכה-הצרפתית-חירות-שוויון-אחווה-וגיליוטינה</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
