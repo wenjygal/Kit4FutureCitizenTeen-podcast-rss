@@ -283,5 +283,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>לא כל הדמוקרטיות נראות אותו דבר</title>
+    <description><![CDATA[לא כל מה שנקרא 'דמוקרטיה' באמת דמוקרטי. יש גם קלפטוקרטיה וגרונטוקרטיה.
+מונרכיה חוקתית, שיטות הצבעה שונות ברחבי העולם, ואיך מדינות שונות פותרות בעיות השתתפות בבחירות.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/לומדים-אזרחות-מקרים-מיוחדים-ודרכים-שונות-להיות-דמוקרטיה
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/recxOmdYCduWWoQcI.mp3" type="audio/mp4" length="24360055"/>
+    <pubDate>Tue, 29 Sep 2026 15:01:04 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/לומדים-אזרחות-מקרים-מיוחדים-ודרכים-שונות-להיות-דמוקרטיה</guid>
+    <link>https://www.hamal4kids.online/post/לומדים-אזרחות-מקרים-מיוחדים-ודרכים-שונות-להיות-דמוקרטיה</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
