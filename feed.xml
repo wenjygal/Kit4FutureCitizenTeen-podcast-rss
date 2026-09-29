@@ -328,5 +328,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>איך דמוקרטיה מתדרדרת</title>
+    <description><![CDATA[דמוקרטיות לא נופלות תמיד בהפיכה. לפעמים הן נשחקות לאט, מבפנים.
+סימני אזהרה מוקדמים, פופוליזם, אי-שוויון כלכלי, וסיפורי אזהרה מגרמניה ומוונצואלה — כולל ניסוי 'הגל' המפחיד.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/לומדים-אזרחות-איך-דמוקרטיה-מתדרדרת-ומה-עושים-עם-זה
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/recTZT3uZcfAEdoKV.mp3" type="audio/mp4" length="23647148"/>
+    <pubDate>Tue, 29 Sep 2026 17:01:40 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/לומדים-אזרחות-איך-דמוקרטיה-מתדרדרת-ומה-עושים-עם-זה</guid>
+    <link>https://www.hamal4kids.online/post/לומדים-אזרחות-איך-דמוקרטיה-מתדרדרת-ומה-עושים-עם-זה</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
