@@ -268,5 +268,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>כשעובדים מתאחדים</title>
+    <description><![CDATA[1 במאי הוא לא סתם חופש. הוא תוצאה של שביתה שהפכה למאבק דמים.
+מי היו הפועלים, אילו תנאי עבודה היו לפני 140 שנה, ואיך עשרות אלפי עובדים בשיקגו שינו את ההיסטוריה — ומה המצב היום בישראל.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/יום-הפועלים-הבינלאומי-למה-אנחנו-לא-עובדים-ביום-הפועלים-אחד-במאי
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/recLc81HfgpyTU06I.mp3" type="audio/mp4" length="25278513"/>
+    <pubDate>Tue, 29 Sep 2026 15:00:52 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/יום-הפועלים-הבינלאומי-למה-אנחנו-לא-עובדים-ביום-הפועלים-אחד-במאי</guid>
+    <link>https://www.hamal4kids.online/post/יום-הפועלים-הבינלאומי-למה-אנחנו-לא-עובדים-ביום-הפועלים-אחד-במאי</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
