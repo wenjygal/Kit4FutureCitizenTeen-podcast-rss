@@ -358,5 +358,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>דת ומדינה: חומה, גשר או משהו באמצע</title>
+    <description><![CDATA[היחס בין דת ומדינה במבט גלובלי - מתיאוקרטיה ועד אתאיזם ממלכתי. איראן, ארהב, צרפת, בהוטן, מקסיקו, לבנון וישראל - מי בוחר מה בחס לחופש דת וחופש מדת, ולמה לישראל אין חוקה בעיקר בגלל המחלוקת הזו.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/לומדים-אזרחות-דת-ומדינה-חומה-גשר-או-משהו-באמצע
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/recaqjYjl0eiT5Nbi.mp3" type="audio/mp4" length="33644626"/>
+    <pubDate>Tue, 13 Oct 2026 09:00:49 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/לומדים-אזרחות-דת-ומדינה-חומה-גשר-או-משהו-באמצע</guid>
+    <link>https://www.hamal4kids.online/post/לומדים-אזרחות-דת-ומדינה-חומה-גשר-או-משהו-באמצע</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
