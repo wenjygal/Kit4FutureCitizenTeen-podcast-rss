@@ -343,5 +343,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>אפקט העלות השקועה</title>
+    <description><![CDATA[למה כל כך קשה לנו לעזוב חוג, ספר או מגמה - גם כשאנחנו יודעים שהם לא מתאימים לנו?
+אפקט העלות השקועה, ממצאים מחקריים מרתקים על עכברים וחולדות, וטיפים איך לקבל החלטות חכמות יותר בלי להיגרר אחרי מה שכבר השקענו.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/אפקטים-מיוחדים-אפקט-העלות-השקועה-או-למה-קשה-לנו-לעזוב-דבר-שכבר-השקענו-בו
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/recafTmv3Qp1ZJfrt.mp3" type="audio/mp4" length="26673810"/>
+    <pubDate>Tue, 13 Oct 2026 09:00:36 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/אפקטים-מיוחדים-אפקט-העלות-השקועה-או-למה-קשה-לנו-לעזוב-דבר-שכבר-השקענו-בו</guid>
+    <link>https://www.hamal4kids.online/post/אפקטים-מיוחדים-אפקט-העלות-השקועה-או-למה-קשה-לנו-לעזוב-דבר-שכבר-השקענו-בו</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
