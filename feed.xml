@@ -387,5 +387,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>על תשדירי תעמולת בחירות</title>
+    <description><![CDATA[תשדירי בחירות, סרטוני טיקטוק, דיפפייק — מי מנסה לשכנע אתכם, ואיך לא נותנים לאף אחד לעבוד עליכם?
+מה זו תעמולת בחירות, איך זה עובד בארה״ב, בריטניה וצרפת, מה מותר ומה אסור בישראל, איך מסמנים תוכן שנוצר בבינה מלאכותית, ארגז כלים לזיהוי מניפולציות ומה עושה ועדת הבחירות המרכזית.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/לומדים-אזרחות-תשדירי-תעמולת-בחירות-מי-מנסה-לשכנע-אתכם-ואיך
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/recQOxt7mqqJEtCQb.mp3" type="audio/mp4" length="26712660"/>
+    <pubDate>Mon, 19 Oct 2026 09:01:05 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/לומדים-אזרחות-תשדירי-תעמולת-בחירות-מי-מנסה-לשכנע-אתכם-ואיך</guid>
+    <link>https://www.hamal4kids.online/post/לומדים-אזרחות-תשדירי-תעמולת-בחירות-מי-מנסה-לשכנע-אתכם-ואיך</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
