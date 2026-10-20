@@ -402,5 +402,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>איך מרכיבים ממשלה - ולמה כדאי לדעת את זה לפני שהולכים לקלפי</title>
+    <description><![CDATA['רק מי שמצביע למפלגה הגדולה ישפיע על מי יהיה ראש הממשלה' — נשמע הגיוני, אבל בישראל זה בכלל לא עובד ככה.
+מה ההבדל בין משטר נשיאותי לפרלמנטרי, איך מרכיבים ממשלה בעולם ובישראל צעד אחר צעד, למה קובעים 'הכי הרבה ממליצים' ולא 'הכי הרבה מנדטים', ומה זו ממשלת מיעוט.
+
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/rec08EncaRFp030x2.mp3" type="audio/mpeg" length="16202187"/>
+    <pubDate>Tue, 20 Oct 2026 09:01:04 GMT</pubDate>
+    <guid isPermaLink="false">https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/rec08EncaRFp030x2.mp3</guid>
+    <link></link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
