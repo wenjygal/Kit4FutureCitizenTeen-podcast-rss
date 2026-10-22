@@ -416,5 +416,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>איך מצביעים? מחרסים וגולות ועד מחשבים ומעטפות כפולות</title>
+    <description><![CDATA[מאתונה העתיקה שחרטה שמות על שברי חרס ועד גמביה שמצביעה עם גולות זכוכית — כל פרט בטקס הקטן בקלפי הוא תוצאה של מאות שנים של ניסיונות, טעויות וזיופים.
+הצבעה חשאית מול גלויה, פתקים, מכונות, דואר ואינטרנט בעולם, איך מצביעים בישראל צעד אחר צעד, מעטפות כפולות, ומה קל יותר לזייף — נייר או מחשב?
+
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/rec0oHinQJKLaE7Rs.mp3" type="application/octet-stream" length="254413"/>
+    <pubDate>Thu, 22 Oct 2026 15:00:39 GMT</pubDate>
+    <guid isPermaLink="false">https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/rec0oHinQJKLaE7Rs.mp3</guid>
+    <link></link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
