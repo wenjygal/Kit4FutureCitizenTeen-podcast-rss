@@ -430,5 +430,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
   </item>
+
+  <item>
+    <title>מה זה מצע</title>
+    <description><![CDATA['מצע' נשמע כמו משהו שישנים עליו — אז למה הוא חשוב יותר מכל סרטון בטיקטוק?
+מה זו מפלגה ומה ההבדל בינה לרשימה, למה יש 2 מפלגות בארה״ב ועשרות בישראל, מאיפה מגיעה המילה 'מצע', מה כתוב במצע ולמה צריך אותו, איך זה עובד בגרמניה, בריטניה, ארה״ב וישראל, ואיך קוראים מצע בלי להירדם.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/לומדים-אזרחות-מה-זה-מצע-ולמה-הוא-חשוב-יותר-מכל-סרטון-בטיקטוק
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/recRCQTUw2RQaFt27.mp3" type="audio/mp4" length="22003083"/>
+    <pubDate>Fri, 23 Oct 2026 11:00:47 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/לומדים-אזרחות-מה-זה-מצע-ולמה-הוא-חשוב-יותר-מכל-סרטון-בטיקטוק</guid>
+    <link>https://www.hamal4kids.online/post/לומדים-אזרחות-מה-זה-מצע-ולמה-הוא-חשוב-יותר-מכל-סרטון-בטיקטוק</link>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://linktr.ee/Kit4FutureCitizenTeen"/>
+  </item>
 </channel>
 </rss>
