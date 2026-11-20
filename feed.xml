@@ -491,5 +491,19 @@
     <itunes:duration>578</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>זכויות הילד: מי החליט שגם לכם יש זכויות, ומי בודק שמקיימים אותן</title>
+    <description><![CDATA[למי יש זכויות? האם ילד הוא "מבוגר קטן" שמחכה לגיל 18, או אדם שלם שיש לו זכויות כבר עכשיו?
+מי החליט שגם לילדים יש זכויות, מה כתוב באמנת זכויות הילד, מי בודק שמקיימים אותה, איך זה עובד בישראל ובעולם, ומה עושים כשמשהו לא בסדר.
+
+📎 המאמר המלא: https://www.hamal4kids.online/post/לומדים-אזרחות-זכויות-הילד-מי-החליט-שגם-לכם-יש-זכויות-ומי-בודק-שמקיימים-אותן
+🔗 כל הפרקים, המשחקים והמקורות: https://linktr.ee/Kit4FutureCitizenTeen]]></description>
+    <enclosure url="https://github.com/wenjygal/Kit4FutureCitizenTeen-podcast-rss/releases/download/podcast-audio/recRbIeDwf8VHeUbi.mp3" type="audio/mp4" length="9012035"/>
+    <pubDate>Fri, 20 Nov 2026 16:10:21 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/לומדים-אזרחות-זכויות-הילד-מי-החליט-שגם-לכם-יש-זכויות-ומי-בודק-שמקיימים-אותן</guid>
+    <link>https://www.hamal4kids.online/post/לומדים-אזרחות-זכויות-הילד-מי-החליט-שגם-לכם-יש-זכויות-ומי-בודק-שמקיימים-אותן</link>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
